@@ -1,16 +1,10 @@
 ideologies = {
 
-	Liberals = {
+	liberals = {
 
 		types = {
 
-			conservatism = {
-			}
-
-			liberalism = {
-			}
-
-			socialism = {
+			centrists = {
 			}
 		}
 
@@ -23,7 +17,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 
-		color = { 0 0 255 }
+		color = { 255 255 255 }
 
 		rules = {
 			can_create_collaboration_government = no
@@ -64,13 +58,17 @@ ideologies = {
 
 		types = {
 
-			conservatism = {
+			classic_liberals = {
 			}
 
-			liberalism = {
+			market_liberals = {
 			}
 
-			socialism = {
+			libertarians = {
+			}
+
+			ancap = {
+
 			}
 		}
 
@@ -83,7 +81,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 
-		color = { 0 0 255 }
+		color = { 255 255 0 }
 
 		rules = {
 			can_create_collaboration_government = no
@@ -124,13 +122,13 @@ ideologies = {
 
 		types = {
 
-			conservatism = {
+			republicans = {
 			}
 
-			liberalism = {
+			whigs = {
 			}
 
-			socialism = {
+			democratic_nationalists = {
 			}
 		}
 
@@ -184,15 +182,8 @@ ideologies = {
 
 		types = {
 
-			conservatism = {
+			social_democrat = {
 			}
-
-			liberalism = {
-			}
-
-			socialism = {
-			}
-		}
 
 		dynamic_faction_names = {
 			"FACTION_NAME_DEMOCRATIC_1"
@@ -203,7 +194,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 
-		color = { 0 0 255 }
+		color = { 200 0 0 }
 
 		rules = {
 			can_create_collaboration_government = no
