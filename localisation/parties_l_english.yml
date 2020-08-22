@@ -1,0 +1,9 @@
+﻿l_english:
+ ########LIBERAL##########################
+
+ ########COUNTRY POLITICAL PARTIES########
+ ###American Federation###
+ AME_conservative_party:0 "Republicans"
+ AME_liberals_party:0 "Nationalist Party"
+ AME_liberalist_party:0 "Libertarian Party"
+ AME_fascism_party:0 "Constitution Party"
